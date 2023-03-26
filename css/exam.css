@@ -1,0 +1,105 @@
+
+body{
+    background-color: black;
+}
+/* header */
+.header{
+    background-color: black;
+    z-index: 99999999999999999999999;
+}
+
+/* .textSize{
+    font-size: 30px;
+} */
+
+.height_p{
+    height: 75px;
+}
+
+.item .caption{
+    background-color: #f9f6f6ca;
+     height: 100%;
+    width: 100%;
+    transition-property: top;
+    transition-duration: 1s;
+}
+
+ .item:hover .caption{
+    top:0;
+}
+
+
+
+/* nav */
+
+.decor{
+    text-decoration: none;
+    color: white;
+    z-index: 999;
+}
+.decor:hover{
+   text-decoration: none;
+   color: white;
+
+}
+.logoImg{
+    width: 40px;
+    height: 40px;
+}
+
+#openn{
+    
+    height: 100vh;
+    position: fixed;
+    overflow: hidden;
+    z-index: 9999999999999;
+    color: #fff;
+
+}
+#Leftside{
+    width: 200px;
+    font-size: 13px;
+}
+#rightside{
+    width: 60px;
+}
+#lifticon{
+    margin-top: 350px;
+}
+.Icons2{
+    margin-top: 230px;
+    cursor: pointer;
+}
+#icons1,#clickIcon,#list{
+    cursor: pointer;
+} 
+#list{
+    margin-left: 20px;
+}
+#lifticon{
+    margin-left: 15px;
+
+}
+#clickIcon{
+    margin-top: 230px;
+}
+.Icons2 .Icons21{
+    margin-top: 250px;
+}
+
+/* search */
+
+.backgroundinout{
+    background-color: black;
+}
+#Search{
+    z-index: 99;
+}
+
+
+
+
+.kkkkk{
+    width: 50px;
+    height: 50px;
+}
